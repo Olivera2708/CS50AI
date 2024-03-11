@@ -11,3 +11,11 @@ The Degrees of Separation project focuses on implementing search algorithms to f
 
 #### Tic-Tac-Toe
 The Tic-Tac-Toe project involves creating an AI agent capable of playing the classic game of Tic-Tac-Toe. Using minimax algorithm, I developed an AI player that can analyze the game state and make optimal moves to maximize its chances of winning or achieving a draw. The project required implementing game mechanics, evaluating board states, and designing an efficient search algorithm to explore possible moves.
+
+### Knowledge
+
+#### Knights
+The Knights problem involves creating a program that solves logic puzzles involving characters who are either knights (truth-tellers) or knaves (liars). By encoding the given statements of characters and applying propositional logic, AI must determine the identity of each character based on the truthfulness of their statements. This problem emphasizes the application of logical reasoning and model checking algorithms to deduce solutions to complex puzzles within a grid-based environment.
+
+#### Minesweeper
+The Minesweeper problem focuses on creating an AI program capable of playing the Minesweeper game. By representing each cell as a propositional variable and applying logical reasoning, the AI must determine safe moves and identify mines within the game grid. This project emphasizes the application of knowledge-based agents and inference techniques to effectively navigate and solve Minesweeper puzzles.
