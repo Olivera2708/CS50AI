@@ -19,3 +19,11 @@ The Knights problem involves creating a program that solves logic puzzles involv
 
 ### Minesweeper
 The Minesweeper problem focuses on creating an AI program capable of playing the Minesweeper game. By representing each cell as a propositional variable and applying logical reasoning, the AI must determine safe moves and identify mines within the game grid. This project emphasizes the application of knowledge-based agents and inference techniques to effectively navigate and solve Minesweeper puzzles.
+
+## Uncertainty
+
+### PageRank
+The PageRank project implements an algorithm used by search engines like Google to determine the importance of web pages. This algorithm, named after Google co-founder Larry Page, ranks pages based on the number of incoming links they receive from other pages. However, it addresses the issue of artificially inflating a page's importance by considering the importance of the linking pages. This iterative algorithm assigns higher importance to pages linked by other important pages, thereby providing a more accurate measure of a page's significance amidst the uncertainty of web navigation behavior.
+
+### Heredity
+The Heredity project focuses on predicting the likelihood of genetic traits being inherited within a family. By analyzing genetic data from family members and understanding the rules of inheritance, the program predicts the likelihood of certain traits being passed down through generations. This project delves into probabilistic models for genetic inheritance, Bayesian networks, and conditional probability to model uncertain information. It addresses the uncertainty inherent in genetic inheritance, providing probabilistic estimations rather than definitive answers due to the complexity of genetic interactions and inheritance patterns.
